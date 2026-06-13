@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hola, soy Adolfo Puentes
 
-<!--
-**deivosarthur/deivosarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Automation & Process Analyst
 
-Here are some ideas to get you started:
+Profesional especializado en automatización de procesos, análisis de datos y optimización operacional para entornos empresariales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente desarrollo soluciones utilizando Python, SQL, KNIME, IA y automatización para mejorar procesos críticos dentro de operaciones de telecomunicaciones.
+
+---
+
+## 🚀 Tecnologías
+
+* Python
+* SQL
+* KNIME
+* Selenium
+* Pandas
+* Power BI
+* Oracle Cloud Infrastructure (OCI)
+* GitHub
+* n8n
+* Inteligencia Artificial
+* Agentes IA
+
+---
+
+## 🏆 Certificaciones
+
+* Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+* Oracle Next Education (ONE)
+* KNIME Analytics Platform - Basic Proficiency
+
+---
+
+## 📊 Áreas de especialización
+
+* Automatización de procesos
+* Integración de datos
+* Business Intelligence
+* Data Analytics
+* RPA
+* IA aplicada a procesos
+* Optimización operacional
+
+---
+
+## 📂 Proyectos destacados
+
+### ONFIDE Monitoring Platform
+
+Sistema de monitoreo y alertamiento para plataformas operacionales.
+
+### SAP Automation Suite
+
+Automatización de extracción y procesamiento de información SAP.
+
+### Telecom Operations Dashboard
+
+Dashboards operacionales para seguimiento de indicadores y gestión en tiempo casi real.
+
+### AI Automation Projects
+
+Desarrollo de agentes IA y automatizaciones inteligentes para procesos empresariales.
+
+---
+
+## 🌎 Contacto
+
+LinkedIn: (agregar enlace)
+
+GitHub: https://github.com/deivosarthur
